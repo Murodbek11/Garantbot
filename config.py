@@ -1,0 +1,4 @@
+TOKEN = "7377520849:AAE5AMBNkKgYy2XPc_8YTecj9uRw72mDKKw"
+OWNER_ID = 1725224593
+MODERATORS = [1725224593]  # Можно добавить других
+DATA_FILE = "data/antiscam.json"
